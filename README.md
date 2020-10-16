@@ -1,2 +1,2 @@
 # Login-Form
-This simple login form,with forget password page
+This simple login form,registration page with forget password page
